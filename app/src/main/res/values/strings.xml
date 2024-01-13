@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">Camera and Photo Picker</string>
+    <string name="manage_photos">Manage Photos</string>
+    <string name="add_photos">Add Photos</string>
+    <string name="photos_are_the_first_thing_members_look_in_your_profile_add_multiple_photos_to_get_more_matches">Photos are the first thing members look in your profile. Add multiple photos to get more matches.</string>
+    <string name="upload_from_gallery">Upload from gallery</string>
+    <string name="take_a_photo">Take a photo</string>
+    <string name="whatsapp_your_photos_to_us">WhatsApp your photos to us @</string>
+    <string name="delete_photo">Delete photo</string>
+    <string name="delete_photo_description">"Members with multiple photos get better responses. Do you still want to delete this photo?"</string>
+    <string name="profile_photo">Profile photo</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
 </resources>
